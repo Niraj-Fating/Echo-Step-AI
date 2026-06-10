@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Database files
+*.db
+echostep.db
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit configurations
+.streamlit/
