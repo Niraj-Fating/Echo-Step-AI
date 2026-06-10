@@ -1,6 +1,6 @@
 # EchoStep AI: AI-Powered Carbon Footprint Tracker & Reduction Advisor
 
-**EchoStep AI** is a personalized, interactive web application built with **Streamlit** and the **Gemini API** that acts as an eco-coach and carbon accountant to address **UN SDG 13: Climate Action**. 
+**EchoStep AI** is a personalized, interactive web application built with **Streamlit** and the **Gemini API** that acts as an eco-coach and carbon accountant to address **Climate Action**. 
 
 Users log daily activities (transportation, dietary habits, utility usage) and receive carbon footprint metrics, interactive visualizations, and natural language recommendations powered by the Gemini API to systematically offset emissions.
 
